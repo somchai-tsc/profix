@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html lang="th">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>TSC Profix โดย:ช่างสมชาย</title>
+    <meta name="description" content="TSC Profix โดยช่างสมชาย แก้ไขชักโครกมีกลิ่น กรุงเทพฯ-ปริมณฑล ประสบการณ์กว่า 10 ปี โทร 089-542-5999">
+
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Segoe UI', sans-serif;
+      background-color: #fefefe;
+      color: #333;
+    }
+
+    header {
+      background-image: url('ภาพindex7.png');
+      background-size: cover;
+      background-position: center;
+      padding: 60px 20px;
+      text-align: center;
+      color: #fff;
+    }
+
+    .logo {
+      font-size: 4.5em;
+      font-weight: bold;
+      color: #e74c3c;
+    }
+
+    .subtitle {
+      font-size: 3em;
+      margin-top: 10px;
+      color: #0c437a;
+    }
+
+    .quote {
+      font-size: 2em;
+      color: #ffffff;
+      margin-top: 10px;
+      text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.4);
+    }
+
+    .button-group {
+      margin-top: 20px;
+    }
+
+    .btn {
+      display: inline-block;
+      background-color: #e67e22;
+      color: #fff;
+      padding: 12px 25px;
+      margin: 10px;
+      border-radius: 30px;
+      text-decoration: none;
+      font-weight: bold;
+      transition: background 0.3s;
+    }
+
+    .btn:hover {
+      background-color: #cf711f;
+    }
+
+    section {
+      max-width: 900px;
+      margin: auto;
+      padding: 30px 20px;
+    }
+
+    h2 {
+      color: #c0392b;
+      border-bottom: 2px solid #eee;
+      padding-bottom: 8px;
+    }
+
+    ul {
+      line-height: 1.8em;
+      padding-left: 20px;
+    }
+
+    .contact-info {
+      font-size: 1.1em;
+      line-height: 1.7em;
+    }
+
+    .social-icons a {
+      margin-right: 10px;
+      text-decoration: none;
+      color: #2c3e50;
+    }
+
+    footer {
+      background-color: #071969;
+      color: #fff;
+      text-align: center;
+      padding: 20px;
+      font-size: 0.9em;
+    }
+
+    .highlight-message {
+      text-align: center;
+      font-size: 1.3em;
+      font-weight: bold;
+      color: #2c3e50;
+      margin-top: 40px;
+      background-color: #f9f9f9;
+      padding: 20px;
+      border-radius: 12px;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    }
+
+    .line-float {
+      position: fixed;
+      bottom: 20px;
+      right: 20px;
+      z-index: 1000;
+      background: #06C755;
+      padding: 12px 20px;
+      border-radius: 30px;
+      color: white;
+      text-decoration: none;
+      font-weight: bold;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.3);
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <div class="logo">TSC Profix</div>
+  <div class="subtitle">โดยช่างสมชาย</div>  
+  <div class="quote">แก้ไขชักโครกมีกลิ่นกรุงเทพฯ-ปริมณฑล</div>
+  <div class="quote">หัวใจของงานช่าง คือประสบการณ์และความซื่อสัตย์</div>
+  <div class="button-group">
+    <a href="tel:0895425999" class="btn">📞 โทรหาเรา</a>
+    <a href="https://line.me/R/ti/p/@tsc.99" class="btn" target="_blank">💬 แชทผ่าน LINE</a>
+  </div>
+</header>
+
+<section>
+  <h2>🔧 บริการของเรา</h2>
+  <ul>
+    <li>- แก้กลิ่นย้อนจากชักโครก</li>
+    <li>- ติดตั้ง-เปลี่ยนอุปกรณ์กันกลิ่น</li>
+    <li>- ตรวจเช็คระบบท่อน้ำทิ้ง-ท่อน้ำดี</li>
+    <li>- แก้ไขท่อตันเบื้องต้น</li>
+    <li>- รับประกันงานซ่อม พร้อมให้คำปรึกษาฟรี</li>
+  </ul>
+</section>
+
+<section>
+  <h2>📸 ตัวอย่างผลงาน</h2>
+  <p>- ภาพหน้างานบางส่วน: <a href="https://photos.app.goo.gl/Yrau56brxcnVFBku6" target="_blank">คลิกดูภาพ</a></p>
+  <p>- แก้ไขตรงจุด งบไม่บานปลาย ใช้อะไหล่แท้ 100% ราคายุติธรรม</p>
+</section>
+
+<section>
+  <h2>🙋‍♂️ เกี่ยวกับช่างสมชาย</h2>
+  <p>- ประสบการณ์ตรงมากกว่า 10 ปี<br>- ใส่ใจทุกงาน ซื่อสัตย์ จริงใจ<br>- ช่างชำนาญเฉพาะทาง</p>
+</section>
+
+<section>
+  <h2>📞 ติดต่อเรา</h2>
+  <div class="contact-info">
+    - โทร: <a href="tel:0895425999">089-542-5999</a><br>
+    - Line: <a href="https://line.me/R/ti/p/@tsc.99" target="_blank">@tsc.99</a><br>
+    - YouTube: <a href="https://www.youtube.com/channel/UC5e4080Q25oVrxayXa8nGAw" target="_blank">คลิก</a><br>
+    - TikTok: <a href="https://www.tiktok.com/@line.tsc.99" target="_blank">คลิก</a><br>
+    - Facebook: <a href="https://www.facebook.com/share/1DoeUf5fkq/" target="_blank">คลิกเพื่อดูเพจ</a><br>
+    พื้นที่ให้บริการ: กรุงเทพฯ, นนทบุรี, ปทุมธานี, สมุทรปราการ, สมุทรสาคร
+  </div>
+</section>
+
+<section class="highlight-message">
+  🙏 ฝากผลงานไว้พิจารณาด้วยครับ หวังว่าจะได้มีโอกาสให้บริการท่านในเร็ว ๆ นี้
+</section>
+
+<section>
+  <h2>🗺️ พื้นที่ให้บริการโดยประมาณ</h2>
+  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3875.842887532282!2d100.5134068153543!3d13.736717701319602!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x30e2994161f92d15%3A0x65caa1105cf6dcf1!2zQmFuZ2tvaywgVGhhaWxhbmQ!5e0!3m2!1sth!2sth!4v1685593705764!5m2!1sth!2sth" width="100%" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</section>
+
+<a href="https://line.me/R/ti/p/@tsc.99" class="line-float" target="_blank">💬 แชทด่วน</a>
+
+<footer>
+  &copy; 2014-2025 TSC Profix โดย:ช่างสมชาย | All rights reserved.
+</footer>
+
+</body>
+</html>
